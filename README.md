@@ -11,7 +11,7 @@ Project to analyze “tilt” behavior after a big loss in PokerStars cash games
 ## Data (Google Drive)
 The full dataset is too large for GitHub (several GB) and is stored on Google Drive.
 
-- Download link: PASTE_GOOGLE_DRIVE_LINK_HERE
+- Download link: (https://drive.google.com/drive/folders/1TX9ygOr8ompO3Mt2H607s-LVGbYkALuQ?usp=sharing)
 - After downloading, follow the instructions in `data/README_data.md`.
 
 ## How to run (Google Colab)
